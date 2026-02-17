@@ -1,0 +1,5 @@
+A = int(input())
+B = int(input())
+C = (A + B)
+result = (C <= 100)
+print(result)
