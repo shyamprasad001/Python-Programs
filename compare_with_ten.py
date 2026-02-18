@@ -1,0 +1,5 @@
+A = int(input())
+B = int(input())
+C = (A + B)
+D = (A - B)
+print((C < 10) or (D < 10) or ((A > 5) and (A < 30)))
